@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mahesh
+Skills: HTML, CSS, JS, Python, Java, WebDevlopment, DSA
+Email: maheshyuva18@gmail.com
+{{/user}}
